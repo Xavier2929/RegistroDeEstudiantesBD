@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estudiantes", "Estudiantes\Estudiantes.csproj", "{F5844703-FDC6-4787-88E1-4366F1273E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{8D117E2D-73C2-4773-8D55-51A4DB7F2C34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{01D8BA59-F119-4CAB-9E42-A5D495727D8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5844703-FDC6-4787-88E1-4366F1273E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5844703-FDC6-4787-88E1-4366F1273E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5844703-FDC6-4787-88E1-4366F1273E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5844703-FDC6-4787-88E1-4366F1273E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D117E2D-73C2-4773-8D55-51A4DB7F2C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D117E2D-73C2-4773-8D55-51A4DB7F2C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D117E2D-73C2-4773-8D55-51A4DB7F2C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D117E2D-73C2-4773-8D55-51A4DB7F2C34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01D8BA59-F119-4CAB-9E42-A5D495727D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D8BA59-F119-4CAB-9E42-A5D495727D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D8BA59-F119-4CAB-9E42-A5D495727D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D8BA59-F119-4CAB-9E42-A5D495727D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CA6B107-910F-4F6A-9C5B-A224A89BD69D}
+	EndGlobalSection
+EndGlobal
